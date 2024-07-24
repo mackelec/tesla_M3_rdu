@@ -2,7 +2,7 @@
 
 ####  RDU PCB showing JTAG Connector
 <br><br>
-![PCB with JTAG connector installed]((https://github.com/davefiddes/c2000-inverter/blob/portable-cpp/docs/DIY-Tesla-M3-inverter-JTAG-cable.jpg)
+![PCB with JTAG connector installed](https://github.com/davefiddes/c2000-inverter/blob/portable-cpp/docs/DIY-Tesla-M3-inverter-JTAG-cable.jpg)
 <br><br><br>
 ###  Connector details
 
