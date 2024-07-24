@@ -20,5 +20,12 @@
   <img src="https://github.com/mackelec/tesla_M3_rdu/blob/main/dev/AliExpress%20Jtag%20cable%202.PNG" alt="Description of image 2" width="300" />
 </p>
 
-  
+
+
+###  Pinout of RDU JTAG Connector
+
+[Tesla RDU Jtag Pinout](https://github.com/mackelec/tesla_M3_rdu/blob/main/dev/Jtag%20assigned.png)
+
+
+
 
