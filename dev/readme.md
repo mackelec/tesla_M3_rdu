@@ -1,8 +1,8 @@
 ## Tesla M3 Rear Drive Unit (RDU) - JTAG interface
 
 ####  RDU PCB showing JTAG Connector
-
-![PCB with JTAG connector installed](https://github.com/mackelec/tesla_M3_rdu/blob/main/dev/Tesla%20M3%20RDU%20inverter%20PCB.jpg)
+<br><br>
+![PCB with JTAG connector installed]((https://github.com/davefiddes/c2000-inverter/blob/portable-cpp/docs/DIY-Tesla-M3-inverter-JTAG-cable.jpg)
 <br><br><br>
 ###  Connector details
 
