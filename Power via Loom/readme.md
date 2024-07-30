@@ -3,10 +3,12 @@
 ### Connections
 
 - 12V connections.
+  - X950(Female)  Grey housing.
   - unswitched_+12V connects to connector X950 pin 10.
   - switched_+12V connects to connector X950 pin 9.
 
 - Gnd Connections.
+  - X952 (Female) Black housing.
   - Gnd connects to X952 pin 14.
   - Also connect Gnd to aluminium Housing.
 
