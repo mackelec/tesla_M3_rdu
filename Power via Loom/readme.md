@@ -12,3 +12,9 @@
   - Gnd connects to X952 pin 14.
   - Also connect Gnd to aluminium Housing.
 
+- #### X090 - Inverter Main Connector
+  - unswitched_+12V connects to pin 22.
+  - switched_+12V connects to pin 3.
+  - Gnd connects to pin 13.
+ 
+  - 
