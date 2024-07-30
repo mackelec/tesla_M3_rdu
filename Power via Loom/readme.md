@@ -20,4 +20,6 @@ X090 - Inverter Main Connector
   - switched_+12V connects to pin 3.
   - Gnd connects to pin 13.
  
-  - 
+###  Wiring Loom
+
+![Wiring Loom](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/Drive%20untit%20wire%20loom.jpg)
