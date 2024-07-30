@@ -33,7 +33,7 @@ X090 - Inverter Main Connector
 ### Tesla Wiring information.   (colours may vary)
 
 - X090 (Inverter) [X090](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/X090%20_.pdf)
-- X950F [x950F)(https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/X950F%20_.pdf)
+- X950F [x950F](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/X950F%20_.pdf)
 - X952F [X952F](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/X952F%20_.pdf)
 
 
