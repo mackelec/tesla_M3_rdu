@@ -23,3 +23,8 @@ X090 - Inverter Main Connector
 ###  Wiring Loom
 
 ![Wiring Loom](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/Drive%20untit%20wire%20loom.jpg)
+<br><br><br>
+
+### X950F and X952F Looking at face
+
+![X950F X952F](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/Connector%20X950.PNG)
