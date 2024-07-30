@@ -1,5 +1,8 @@
 ## Applying power via Wiring Loom
 
+Power and Gnd will be applied by inserting pins into X950 and X952.
+For reference, see X090 Main Inverter Connector Pinouts below.
+
 ### Connections
 
 - 12V connections.
