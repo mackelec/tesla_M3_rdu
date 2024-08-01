@@ -9,3 +9,7 @@ A big thanks and acknoledment to Damien Macquire and Dave Fiddes and the [OpenIn
 [Dave Fiddes Github](https://github.com/davefiddes/c2000-inverter)<BR>
 [OpenInverter M3 RDU Hacking](https://openinverter.org/forum/viewtopic.php?f=10&t=575)<BR>
 
+### Contents
+
+- [Jtag Connector and cable](https://github.com/mackelec/tesla_M3_rdu/tree/main/Jtag)
+- [Powering the Inverter](https://github.com/mackelec/tesla_M3_rdu/tree/main/Power%20via%20Loom)
