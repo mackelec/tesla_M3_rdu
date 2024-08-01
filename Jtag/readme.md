@@ -7,7 +7,7 @@
 ### Using Damiens Jtag module.
 
 [Damien's Jtag module](https://www.evbmw.com/index.php/evbmw-webshop/tesla-boards/m3du-jtag)<BR>
-[Dave Fiddes Jtag setup](https://github.com/davefiddes/c2000-inverter/blob/portable-cpp/docs/Tesla-M3-JTAG-cable.md)
+[Dave Fiddes Jtag setup](https://github.com/davefiddes/c2000-inverter/blob/portable-cpp/docs/Tesla-M3-JTAG-cable.md)<BR>
 Once assembled the FTDI FT2232H must be programmed with the correct USB identifiers and configuration so that it appears to the host PC as a TI XDS100v2 JTAG adapter. To do this use the Windows [FT_PROG](https://ftdichip.com/utilities/#ft_prog) to apply the [TI template](https://software-dl.ti.com/ccs/esd/documents/xdsdebugprobes/files/F28379D_LAUNCHXL.zip).
 
 ###  Connector details
