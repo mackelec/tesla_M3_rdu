@@ -18,5 +18,5 @@ A big thanks and acknoledment to Damien Macquire and Dave Fiddes and the [OpenIn
 
 ### More References
 
-[TMS320F2837xD Dual-Core Real-Time Microcontrollers  -  Tech Reference](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/TMS320%20Tech%20Ref%20Manual.zip)
+[TMS320F2837xD Dual-Core Real-Time Microcontrollers  -  Tech Reference](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/TMS320%20Tech%20Ref%20Manual.zip)<BR>
 [TMS320F2837xD - Data Sheet](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/tms320f28377d%20%20Hardward%20-%20pinouts%20etc.pdf)
