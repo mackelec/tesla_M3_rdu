@@ -24,7 +24,7 @@
 <br><br><br>
 ###  Pinout of RDU JTAG Connector
 <br><br><br>
-![Tesla RDU Jtag Pinout](https://github.com/mackelec/tesla_M3_rdu/resource/Jtag%20assigned_circled.png)
+![Tesla RDU Jtag Pinout](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/Jtag%20assigned_circled.png)
 
 
 
