@@ -3,6 +3,8 @@
 Power and Gnd will be applied by inserting pins into X950 and X952.
 For reference, see X090 Main Inverter Connector Pinouts below.
 
+![Power connected](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/Tesla%20Inverter%20Power%20connected.jpg)
+
 ### Connections
 
 - 12V connections.
