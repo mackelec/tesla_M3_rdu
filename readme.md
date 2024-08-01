@@ -8,7 +8,7 @@ A big thanks and acknoledment to Damien Macquire and Dave Fiddes and the [OpenIn
 [Damien MaGuire's Github](https://github.com/damienmaguire/Tesla-Model-3-Drive-Unit)<BR>
 [Dave Fiddes Github](https://github.com/davefiddes/c2000-inverter)<BR>
 [OpenInverter M3 RDU Hacking](https://openinverter.org/forum/viewtopic.php?f=10&t=575)<BR>
-[Damien's Jtag module](https://openinverter.org/forum/viewtopic.php?f=10&t=575)<BR>
+[Damien's Jtag module](https://www.evbmw.com/index.php/evbmw-webshop/tesla-boards/m3du-jtag)<BR>
 
 ### Contents
 
