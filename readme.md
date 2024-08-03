@@ -19,4 +19,7 @@ A big thanks and acknoledment to Damien Macquire and Dave Fiddes and the [OpenIn
 ### More References
 
 [TMS320F2837xD Dual-Core Real-Time Microcontrollers  -  Tech Reference](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/TMS320%20Tech%20Ref%20Manual.zip)<BR>
-[TMS320F2837xD - Data Sheet](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/tms320f28377d%20%20Hardward%20-%20pinouts%20etc.pdf)
+[TMS320F2837xD - Data Sheet](https://github.com/mackelec/tesla_M3_rdu/blob/main/resource/tms320f28377d%20%20Hardward%20-%20pinouts%20etc.pdf)<BR>
+[TI LaunchPad for TMS320F2837x](https://www.digikey.com.au/en/products/detail/texas-instruments/LAUNCHXL-F28379D/7219341?utm_adgroup=&utm_id=go_cmp-20001736977_adg-_ad-__dev-c_ext-_prd-7219341_sig-Cj0KCQjwh7K1BhCZARIsAKOrVqF4ihR5jR76maySlwVcD8w3lsL36KkvBF5J3HkXzRMRvCVC_R67pAkaAopuEALw_wcB&productid=7219341&gad_source=1)<BR>
+[buying TMS320F28377D](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Texas-Instruments-TMS320F28377DPTPT_C83048.html)<BR>
+
